@@ -17,11 +17,11 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <dynamic_value_dot_walk_path/>
-        <dynamic_value_field/>
+        <dynamic_value_dot_walk_path>phone</dynamic_value_dot_walk_path>
+        <dynamic_value_field display_value="Requested for  ">0bf95d0a97f40a1007357d100153afef</dynamic_value_field>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>active</field>
+        <field>comments_and_work_notes</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -77,17 +77,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-08 23:03:06</sys_created_on>
         <sys_id>b63b990e97f40a1007357d100153af83</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Contact Number </sys_name>
         <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
         <sys_update_name>item_option_new_b63b990e97f40a1007357d100153af83</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-10 15:47:56</sys_updated_on>
+        <sys_updated_on>2024-03-11 03:22:07</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>2</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

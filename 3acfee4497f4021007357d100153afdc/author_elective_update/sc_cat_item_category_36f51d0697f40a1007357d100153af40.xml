@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="HR General Inquiry">0c439d4297f40a1007357d100153afb3</sc_cat_item>
+        <sc_category display_value="Human Resource">4cd5994697f40a1007357d100153af29</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 22:38:17</sys_created_on>
+        <sys_id>36f51d0697f40a1007357d100153af40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resource.HR General Inquiry</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>sc_cat_item_category_36f51d0697f40a1007357d100153af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 22:38:17</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sc_cat_item_category_36f51d0697f40a1007357d100153af40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="HR General Inquiry">0c439d4297f40a1007357d100153afb3</sc_cat_item><sc_category display_value="Human Resource">4cd5994697f40a1007357d100153af29</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-08 22:38:17</sys_created_on><sys_id>36f51d0697f40a1007357d100153af40</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Human Resource.HR General Inquiry</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>sc_cat_item_category_36f51d0697f40a1007357d100153af40</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-08 22:38:17</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1659343875</payload_hash>
+        <record_name>Human Resource.HR General Inquiry</record_name>
+        <reverted_from/>
+        <source>7ac452aa9770021007357d100153af99</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 16:29:41</sys_created_on>
+        <sys_id>fac452aa9770021007357d100153afc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e2932d5e40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 16:29:41</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b6c452aa2b70021099562a86c73a31b9</update_guid>
+        <update_guid_history>b6c452aa2b70021099562a86c73a31b9:1659343875,faf55d467af40a10598e34422984c22b:1910573711</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Human Resource.HR General Inquiry">3ec452aa9770021007357d100153afc7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-10 16:29:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>092f134e7be6447483ee4518b8041b10</sys_id>
+        <sys_metadata>36f51d0697f40a1007357d100153af40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resource.HR General Inquiry</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_36f51d0697f40a1007357d100153af40</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_36f51d0697f40a1007357d100153af40">fac452aa9770021007357d100153afc6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-10 16:29:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

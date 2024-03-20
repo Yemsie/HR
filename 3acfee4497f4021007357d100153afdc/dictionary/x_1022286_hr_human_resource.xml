@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="1ec23e0897f4021007357d100153af76" extends="task" label="Human Resource" max_length="40" name="x_1022286_hr_human_resource" type="collection">
+        <element active="false" attributes="edge_encryption_enabled=true" label="Additional comments" max_length="4000" name="additional_comments" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Close Code" max_length="40" name="closecode" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Duplicate Ticket" sequence="0" value="duplicate ticket"/>
+                <element inactive_on_update="false" label="Information Not Available" sequence="1" value="information not available"/>
+                <element inactive_on_update="false" label="No Action Required" sequence="2" value="no action required"/>
+                <element inactive_on_update="false" label="Out of Scope" sequence="3" value="out of scope"/>
+                <element inactive_on_update="false" label="Policy Clarification Provided" sequence="4" value="policy clarification provided"/>
+                <element inactive_on_update="false" label="Resolved by Employee" sequence="5" value="resolved by employee"/>
+                <element inactive_on_update="false" label="Resolved Successfully" sequence="6" value="resolved successfully"/>
+                <element inactive_on_update="false" label="Other" sequence="7" value="other"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="requestedfor" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolved" max_length="40" name="resolved" read_only="true" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Resolved by" max_length="32" name="resolvedby" read_only="true" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Resolved by" max_length="32" name="resolved_by" read_only="true" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Source" max_length="32" name="source" read_only="true" reference="sc_cat_item" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Benefits" sequence="0" value="benefits"/>
+                <element inactive_on_update="false" label="Confidential" sequence="1" value="confidential"/>
+                <element inactive_on_update="false" label="General HR" sequence="2" value="general hr"/>
+                <element inactive_on_update="false" label="Payroll" sequence="3" value="payroll"/>
+                <element inactive_on_update="false" label="Training" sequence="4" value="training"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+    </element>
+</database>

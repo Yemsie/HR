@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="811d830c9778021007357d100153af32" extends="task" label="HR Task" max_length="40" name="x_1022286_hr_hr_task" type="collection">
+        <element active="false" attributes="edge_encryption_enabled=true" label="Additional comments" max_length="4000" name="additional_comments" type="journal"/>
+        <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requested for" max_length="32" name="u_reference_1" reference="cmdb_multisource_deny_class" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>
+    </element>
+</database>

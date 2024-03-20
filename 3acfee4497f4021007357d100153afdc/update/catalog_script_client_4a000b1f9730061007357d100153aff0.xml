@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item/>
+        <cat_variable>IO:7f9d2c8b9770821007357d100153af99</cat_variable>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Priority</name>
+        <order/>
+        <published_ref/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    // Get the g_form object
+    var g_form = control;
+
+    // Get the value of the Separation Type field
+    var separationType = g_form.getValue('separation_type');
+
+    // Get the reference to the Priority field
+    var priorityField = g_form.getControl('priority');
+
+    // Check if Immediate Termination is selected
+    if (separationType === 'immediate_termination') {
+        // Set the Priority to Critical
+        g_form.setValue('priority', '1'); // Assuming '1' represents 'Critical'
+    } else {
+        // Reset the Priority to its default value or perform any other necessary actions
+        priorityField.setDefaultValue();
+    }
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 03:47:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4a000b1f9730061007357d100153aff0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Priority</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>catalog_script_client_4a000b1f9730061007357d100153aff0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 03:47:14</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

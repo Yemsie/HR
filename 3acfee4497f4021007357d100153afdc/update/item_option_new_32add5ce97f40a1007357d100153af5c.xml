@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>active</field>
+        <field>short_description</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-08 23:12:38</sys_created_on>
         <sys_id>32add5ce97f40a1007357d100153af5c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Short Description </sys_name>
         <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
         <sys_update_name>item_option_new_32add5ce97f40a1007357d100153af5c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-10 15:40:46</sys_updated_on>
+        <sys_updated_on>2024-03-10 17:35:36</sys_updated_on>
         <table/>
         <tooltip/>
         <type>16</type>

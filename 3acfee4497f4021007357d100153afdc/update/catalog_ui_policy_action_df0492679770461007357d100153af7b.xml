@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Employee Separation ">ef9b862b9730461007357d100153afe3</catalog_item>
+        <catalog_variable>IO:c62312a39770461007357d100153afb2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 19:00:41</sys_created_on>
+        <sys_id>df0492679770461007357d100153af7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>separation_date</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_df0492679770461007357d100153af7b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 19:00:41</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Visible and Mandatory ">68b31a279770461007357d100153affe</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>separation_date</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
