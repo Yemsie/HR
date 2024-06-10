@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>padding-top</class_name>
+        <container_class_name/>
+        <name>HR App - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="copy_of_ec_home_2">a52995b797cd821007357d100153af14</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 19:37:11</sys_created_on>
+        <sys_id>e12999b797cd821007357d100153af50</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>HR App - Container 2</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>sp_container_e12999b797cd821007357d100153af50</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 19:38:16</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sp_container_e12999b797cd821007357d100153af50</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>padding-top</class_name><container_class_name/><name>HR App - Container 2</name><order>2</order><semantic_tag/><sp_page display_value="copy_of_ec_home_2">a52995b797cd821007357d100153af14</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 19:37:11</sys_created_on><sys_id>e12999b797cd821007357d100153af50</sys_id><sys_mod_count>1</sys_mod_count><sys_name>HR App - Container 2</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>sp_container_e12999b797cd821007357d100153af50</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 19:38:16</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1028399933</payload_hash>
+        <record_name>HR App - Container 2</record_name>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 19:38:16</sys_created_on>
+        <sys_id>256995b797cd821007357d100153af49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e7c45400c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 19:38:16</sys_updated_on>
+        <type>Container</type>
+        <update_guid>696995b7cccd8210579ae8d93051cd48</update_guid>
+        <update_guid_history>696995b7cccd8210579ae8d93051cd48:1028399933,652999b739cd8210f8becb354f200651:-1936464419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HR App - Container 2">6be8968d97d5c21007357d100153af4f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 21:28:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>11737616926f412e8d2d2db9e9dcb944</sys_id>
+        <sys_metadata>e12999b797cd821007357d100153af50</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR App - Container 2</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>sp_container_e12999b797cd821007357d100153af50</sys_update_name>
+        <sys_update_version display_value="sp_container_e12999b797cd821007357d100153af50">256995b797cd821007357d100153af49</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 21:28:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

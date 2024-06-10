@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_column/>
+        <sp_container display_value="HR Project - Container 2">e4b7ac639709421007357d100153af67</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 21:23:02</sys_created_on>
+        <sys_id>5ec7ec639709421007357d100153afff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>sp_row_5ec7ec639709421007357d100153afff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 21:23:02</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sp_row_5ec7ec639709421007357d100153afff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><semantic_tag/><sp_column/><sp_container display_value="HR Project - Container 2">e4b7ac639709421007357d100153af67</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-25 21:23:02</sys_created_on><sys_id>5ec7ec639709421007357d100153afff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>sp_row_5ec7ec639709421007357d100153afff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-25 21:23:02</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>605033115</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 21:23:02</sys_created_on>
+        <sys_id>dec720a39709421007357d100153af01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e777ece2c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 21:23:02</sys_updated_on>
+        <type>Row</type>
+        <update_guid>d2c720a386094210b183ddfddea4f101</update_guid>
+        <update_guid_history>d2c720a386094210b183ddfddea4f101:605033115</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">0e70f06f9709421007357d100153af12</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 22:00:59</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>00db101ef58e461d800e580f26ab3221</sys_id>
+        <sys_metadata>5ec7ec639709421007357d100153afff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>sp_row_5ec7ec639709421007357d100153afff</sys_update_name>
+        <sys_update_version display_value="sp_row_5ec7ec639709421007357d100153afff">dec720a39709421007357d100153af01</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 22:00:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="ec_dashboard">8c51a66b532030101865ddeeff7b120d</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="esc_knowledge_home">f8b574a0b7202300d0ac9277ee11a91d</kb_knowledge_page>
+        <login_page/>
+        <logo>1367913797cd821007357d100153af79</logo>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <rtl_enabled>false</rtl_enabled>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="PoshM Fleet">11df7ea797f5b11007357d100153afca</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 19:04:59</sys_created_on>
+        <sys_id>12409dbb978d821007357d100153af51</sys_id>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name>Human Resource App</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>sp_portal_12409dbb978d821007357d100153af51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 21:29:31</sys_updated_on>
+        <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
+        <title>Human Resource App</title>
+        <ts_index_group/>
+        <url_suffix>hre</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=12409dbb978d821007357d100153af51"/>
+    <sys_attachment action="DELETE">
+        <average_image_color>#ccffff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <hash>e5414e9dd6bf4b04338c1c1d1f00959e0e00ad025b18db8ef3b2151fba61225f</hash>
+        <image_height>194</image_height>
+        <image_width>259</image_width>
+        <size_bytes>2178</size_bytes>
+        <size_compressed>2168</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 19:29:40</sys_created_on>
+        <sys_id>1367913797cd821007357d100153af79</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 19:29:40</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>12409dbb978d821007357d100153af51</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="1367913797cd821007357d100153af79">1367913797cd821007357d100153af79</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 19:29:40</sys_created_on>
+        <sys_id>5367913797cd821007357d100153af79</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>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</data>
+        <length>2880</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="1367913797cd821007357d100153af79">1367913797cd821007357d100153af79</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 19:29:40</sys_created_on>
+        <sys_id>d367913797cd821007357d100153af79</sys_id>
+    </sys_attachment_doc>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sp_portal_12409dbb978d821007357d100153af51</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><dark_theme/><default>false</default><enable_ais>false</enable_ais><enable_certificate_based_authentication>false</enable_certificate_based_authentication><enable_favorites>false</enable_favorites><hide_portal_name>false</hide_portal_name><homepage display_value="ec_dashboard">8c51a66b532030101865ddeeff7b120d</homepage><icon/><kb_knowledge_base/><kb_knowledge_page display_value="esc_knowledge_home">f8b574a0b7202300d0ac9277ee11a91d</kb_knowledge_page><login_page/><logo>1367913797cd821007357d100153af79</logo><notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page><quick_start_config/><rtl_enabled>false</rtl_enabled><sc_catalog/><sc_catalog_page/><sc_category_page/><search_application/><search_results_configuration/><sp_chat_queue/><sp_rectangle_menu display_value="PoshM Fleet">11df7ea797f5b11007357d100153afca</sp_rectangle_menu><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 19:04:59</sys_created_on><sys_id>12409dbb978d821007357d100153af51</sys_id><sys_mod_count>24</sys_mod_count><sys_name>Human Resource App</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>sp_portal_12409dbb978d821007357d100153af51</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-30 21:29:31</sys_updated_on><theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme><title>Human Resource App</title><ts_index_group/><url_suffix>hre</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=12409dbb978d821007357d100153af51"/><sys_attachment action="INSERT_OR_UPDATE"><average_image_color>#ccffff</average_image_color><chunk_size_bytes>700000</chunk_size_bytes><compressed>true</compressed><content_type>image/png</content_type><file_name>logo</file_name><hash>e5414e9dd6bf4b04338c1c1d1f00959e0e00ad025b18db8ef3b2151fba61225f</hash><image_height>194</image_height><image_width>259</image_width><size_bytes>2178</size_bytes><size_compressed>2168</size_compressed><state>available</state><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 19:29:40</sys_created_on><sys_id>1367913797cd821007357d100153af79</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-26 19:29:40</sys_updated_on><table_name>ZZ_YYsp_portal</table_name><table_sys_id>12409dbb978d821007357d100153af51</table_sys_id></sys_attachment><sys_attachment_doc action="INSERT_OR_UPDATE"><data>H4sIAAAAAAAA/w==</data><length>16</length><position>0</position><sys_attachment display_value="logo" sys_id="1367913797cd821007357d100153af79">1367913797cd821007357d100153af79</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 19:29:40</sys_created_on><sys_id>5367913797cd821007357d100153af79</sys_id></sys_attachment_doc><sys_attachment_doc action="INSERT_OR_UPDATE"><data>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</data><length>2880</length><position>1</position><sys_attachment display_value="logo" sys_id="1367913797cd821007357d100153af79">1367913797cd821007357d100153af79</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-26 19:29:40</sys_created_on><sys_id>d367913797cd821007357d100153af79</sys_id></sys_attachment_doc></record_update>]]></payload>
+        <payload_hash>0</payload_hash>
+        <record_name>Human Resource App</record_name>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 21:29:31</sys_created_on>
+        <sys_id>86391e8d97d5c21007357d100153af75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e914487f50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 21:29:31</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>0e391e8dc1d5c210d014ee41a63f7674</update_guid>
+        <update_guid_history>0e391e8dc1d5c210d014ee41a63f7674:1701279452,3467120dead5c210550e3a1391366904:39362215,8c47dac9e3d5c2108d63bbaac5ef3710:-2033464795,18b811b7c8cd8210ac57d4ca2ceeb209:405047431,9578157712cd8210ae709d315d00ea67:1094278333,195819773ccd8210feebd2c2d8247e01:681897112,936755374dcd8210419de10c0f899792:-1684530949,17675537bbcd82109a895f13ee13158b:550909613,d084d9ff958d8210bc77f9ace30cb7de:1406813728,bb54553343cd8210027116b10a1a97a7:-546103374,c414d9ff2d8d821091e6142b14e1abbc:-1954338796,4fd399ff998d82105ad2872e45ed3bac:1479309489,d1c3d1ff8b8d82103b3f4c3a6876bf77:-748476908,84a31dbf538d82100958c3c51ffd5fae:329346898,058391fff98d8210e0a01664259683b5:1406813728,c46391bf1c8d8210b24fb62ffb125120:-748476908,bd331dbf678d8210d872aedae2a6e90f:155672365,3af291bf158d821020a399102ee1392a:-748476908,f3d215bf398d8210981266358a2ca96c:757784309,2bb2dd7fe68d82107b768150b2293b3e:-453709582,88a29d7faf8d8210431d860e19acda8f:1832111630,7d72197fa48d82102b313e86164ef64b:259607040,6f52197f408d8210d402a4e3bd40fef8:-265187981,4a32157f208d82103183389d509f1f2b:-615231965,fe12117fe98d821072b06da0e1a3c31a:-748476908,f1c1d93f0d8d82104ef7e590b9493ea2:757784309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Human Resource App">876b5a419719c21007357d100153af69</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 21:39:10</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>0ea1a6a400104f9a8b3d3c3dca5ff2a4</sys_id>
+        <sys_metadata>12409dbb978d821007357d100153af51</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resource App</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>sp_portal_12409dbb978d821007357d100153af51</sys_update_name>
+        <sys_update_version display_value="sp_portal_12409dbb978d821007357d100153af51">86391e8d97d5c21007357d100153af75</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 21:39:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

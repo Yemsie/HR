@@ -36,27 +36,27 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p style="margin: 0in 0in 8pt 117pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="font-size: 10.0pt; line-height: 107%; color: black;">Hi &lt;Requested for&gt;,</span></p>
-<p style="margin-left: 117pt; background: white; margin-right: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;"><span style="font-size: 10.0pt; color: black;">Ticket&nbsp;<strong>&lt;Ticket Number&gt;</strong> has been opened on your behalf.</span></p>
-<p style="margin-left: 117pt; background: white; margin-right: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;"><strong><span style="color: black;">Ticket Details:</span></strong></p>
-<p style="margin-left: 117pt; background: white; margin-right: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;"><strong><span style="font-size: 10.0pt; color: black;">Opened by:&nbsp;</span></strong><span style="font-size: 10.0pt; color: black;">&lt;Opened by&gt;</span></p>
-<p style="margin-left: 117pt; background: white; margin-right: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;"><strong><span style="font-size: 10.0pt; color: black;">Requested for:&nbsp;&lt;Requested for&gt;</span></strong></p>
-<p style="margin-left: 117pt; background: white; margin-right: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;"><strong><span style="font-size: 10.0pt; color: black;">Short Description:&nbsp;&lt;Short Description&gt;</span></strong></p>
-<p style="margin-left: 117pt; background: white; margin-right: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;"><strong><span style="font-size: 10.0pt; color: black;">Description:&nbsp;&lt;Description&gt;</span></strong></p>]]></message_html>
+        <message_html><![CDATA[<p>Hi ${requested_for.name},</p>
+<p>Ticket ${number} has been opened on your behalf.</p>
+<p>Ticket Details:</p>
+<p>Opened by: ${opened_by.name}</p>
+<p>Requested for: ${requested_for.name}</p>
+<p>Short Description: ${short_description}</p>
+<p>Description: ${description}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>HR Ticket Created</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>requestedfor,opened_by</recipient_fields>
+        <recipient_fields>opened_by,requested_for</recipient_fields>
         <recipient_groups/>
         <recipient_users/>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>Subject - &lt;The HR Ticket Number&gt; has been opened on your behalf</subject>
+        <subject>The Number: ${number} has been opened on your behalf</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -64,7 +64,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7f47e7a897858a1007357d100153afb7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>HR Ticket Created</sys_name>
         <sys_overrides/>
         <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
@@ -72,9 +72,9 @@
         <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
         <sys_update_name>sysevent_email_action_7f47e7a897858a1007357d100153afb7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-17 03:43:51</sys_updated_on>
+        <sys_updated_on>2024-03-21 18:22:01</sys_updated_on>
         <sys_version>2</sys_version>
-        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <template/>
         <type>email</type>
         <weight>0</weight>
     </sysevent_email_action>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_knowledge_base">
+    <m2m_sp_portal_knowledge_base action="DELETE">
+        <active>true</active>
+        <kb_knowledge_base display_value="Knowledge">dfc19531bf2021003f07e2c1ac0739ab</kb_knowledge_base>
+        <order>100</order>
+        <sp_portal display_value="HR Project">0a08dc2f9785421007357d100153afad</sp_portal>
+        <sys_class_name>m2m_sp_portal_knowledge_base</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 20:41:10</sys_created_on>
+        <sys_id>4d3e106797c5421007357d100153af8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowledge.HR Project</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>m2m_sp_portal_knowledge_base_4d3e106797c5421007357d100153af8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 20:41:10</sys_updated_on>
+    </m2m_sp_portal_knowledge_base>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>m2m_sp_portal_knowledge_base_4d3e106797c5421007357d100153af8b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_knowledge_base"><m2m_sp_portal_knowledge_base action="INSERT_OR_UPDATE"><active>true</active><kb_knowledge_base display_value="Knowledge">dfc19531bf2021003f07e2c1ac0739ab</kb_knowledge_base><order>100</order><sp_portal display_value="HR Project">0a08dc2f9785421007357d100153afad</sp_portal><sys_class_name>m2m_sp_portal_knowledge_base</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-25 20:41:10</sys_created_on><sys_id>4d3e106797c5421007357d100153af8b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Knowledge.HR Project</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>m2m_sp_portal_knowledge_base_4d3e106797c5421007357d100153af8b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-25 20:41:10</sys_updated_on></m2m_sp_portal_knowledge_base></record_update>]]></payload>
+        <payload_hash>1421410929</payload_hash>
+        <record_name>Knowledge.HR Project</record_name>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 20:41:10</sys_created_on>
+        <sys_id>493e106797c5421007357d100153af8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e775879b10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 20:41:10</sys_updated_on>
+        <type>Portal Knowledge Base</type>
+        <update_guid>4d3e1067b5c542104bd41cb27c0a228d</update_guid>
+        <update_guid_history>4d3e1067b5c542104bd41cb27c0a228d:1421410929</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Knowledge.HR Project">a65d246b9709421007357d100153afb6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 21:47:22</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_knowledge_base">m2m_sp_portal_knowledge_base</sys_db_object>
+        <sys_id>0df145e6e774470b9700633c985dafd1</sys_id>
+        <sys_metadata>4d3e106797c5421007357d100153af8b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowledge.HR Project</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_knowledge_base_4d3e106797c5421007357d100153af8b</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_knowledge_base_4d3e106797c5421007357d100153af8b">493e106797c5421007357d100153af8e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 21:47:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

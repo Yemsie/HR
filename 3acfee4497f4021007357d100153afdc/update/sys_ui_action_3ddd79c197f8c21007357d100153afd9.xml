@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
     <sys_ui_action action="INSERT_OR_UPDATE">
-        <action_name/>
+        <action_name>close hr</action_name>
         <active>true</active>
         <client>true</client>
         <client_script_v2><![CDATA[function onClick(g_form) {
@@ -32,7 +32,7 @@
         <order>130</order>
         <script><![CDATA[// Client-side onclick function
 function closeHR() {
-    // Set the 'State' values to 'Resolved', and display mandatory fields
+    // Set the 'State' values to 'Closed', and display mandatory fields
     g_form.setValue('state', 3);
     g_form.setMandatory('comments', true);
 
@@ -62,7 +62,7 @@ function serverResolve() {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3ddd79c197f8c21007357d100153afd9</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Close</sys_name>
         <sys_overrides/>
         <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
@@ -70,7 +70,7 @@ function serverResolve() {
         <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
         <sys_update_name>sys_ui_action_3ddd79c197f8c21007357d100153afd9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-06 03:06:08</sys_updated_on>
+        <sys_updated_on>2024-06-08 17:12:13</sys_updated_on>
         <table>x_1022286_hr_human_resource</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

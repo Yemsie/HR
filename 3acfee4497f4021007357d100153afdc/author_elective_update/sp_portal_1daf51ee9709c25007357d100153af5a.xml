@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_certificate_based_authentication>true</enable_certificate_based_authentication>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="ec_home">3cd32c40c7a83110b1c6677703c26062</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config>[{&#13;
+	"tagline": {&#13;
+		"table" : "sp_instance",&#13;
+		"sys_id" : "34fe3d96cb20020000f8d856634c9cf4",&#13;
+		"field" : "title"&#13;
+	},&#13;
+	"hero_background": {&#13;
+		"table" : "sp_container",&#13;
+		"sys_id" : "be98a8d2cb20020000f8d856634c9c63",&#13;
+		"field" : "background_image"&#13;
+	}&#13;
+}]</quick_start_config>
+        <rtl_enabled>false</rtl_enabled>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Employee Center Menu">493d01365368301056c1ddeeff7b1207</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 22:54:36</sys_created_on>
+        <sys_id>1daf51ee9709c25007357d100153af5a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Human Resource EC</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>sp_portal_1daf51ee9709c25007357d100153af5a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:02:13</sys_updated_on>
+        <theme display_value="ESC Theme">cef4eb8623882300fb0c949e27bf65cb</theme>
+        <title>Human Resource EC</title>
+        <ts_index_group/>
+        <url_suffix>hre</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=1daf51ee9709c25007357d100153af5a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sp_portal_1daf51ee9709c25007357d100153af5a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><dark_theme/><default>false</default><enable_ais>false</enable_ais><enable_certificate_based_authentication>true</enable_certificate_based_authentication><enable_favorites>false</enable_favorites><hide_portal_name>false</hide_portal_name><homepage display_value="ec_home">3cd32c40c7a83110b1c6677703c26062</homepage><icon/><kb_knowledge_base/><kb_knowledge_page/><login_page/><logo/><notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page><quick_start_config>[{&#13;
+	"tagline": {&#13;
+		"table" : "sp_instance",&#13;
+		"sys_id" : "34fe3d96cb20020000f8d856634c9cf4",&#13;
+		"field" : "title"&#13;
+	},&#13;
+	"hero_background": {&#13;
+		"table" : "sp_container",&#13;
+		"sys_id" : "be98a8d2cb20020000f8d856634c9c63",&#13;
+		"field" : "background_image"&#13;
+	}&#13;
+}]</quick_start_config><rtl_enabled>false</rtl_enabled><sc_catalog/><sc_catalog_page/><sc_category_page/><search_application/><search_results_configuration/><sp_chat_queue/><sp_rectangle_menu display_value="Employee Center Menu">493d01365368301056c1ddeeff7b1207</sp_rectangle_menu><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 22:54:36</sys_created_on><sys_id>1daf51ee9709c25007357d100153af5a</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Human Resource EC</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>sp_portal_1daf51ee9709c25007357d100153af5a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 23:02:13</sys_updated_on><theme display_value="ESC Theme">cef4eb8623882300fb0c949e27bf65cb</theme><title>Human Resource EC</title><ts_index_group/><url_suffix>hre</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=1daf51ee9709c25007357d100153af5a"/></record_update>]]></payload>
+        <payload_hash>3424055</payload_hash>
+        <record_name>Human Resource EC</record_name>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 23:02:13</sys_created_on>
+        <sys_id>c2b12da29749c25007357d100153af9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e686688ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:02:13</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>4ab12da2fe49c25026ecd7095697d89e</update_guid>
+        <update_guid_history>4ab12da2fe49c25026ecd7095697d89e:3424055,9920e5228949c250a0496d7b40b0749d:1437531922,6aff95221d49c2501be65d269d2599d7:363102691</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Human Resource EC">67d265e29749c25007357d100153afea</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 23:07:15</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>76802e3ddc3944e48851ac09f2019071</sys_id>
+        <sys_metadata>1daf51ee9709c25007357d100153af5a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resource EC</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>sp_portal_1daf51ee9709c25007357d100153af5a</sys_update_name>
+        <sys_update_version display_value="sp_portal_1daf51ee9709c25007357d100153af5a">c2b12da29749c25007357d100153af9f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:07:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

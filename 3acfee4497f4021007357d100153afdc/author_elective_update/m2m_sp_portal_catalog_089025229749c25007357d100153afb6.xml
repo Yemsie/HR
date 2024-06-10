@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sp_portal display_value="Human Resource EC">1daf51ee9709c25007357d100153af5a</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 22:57:10</sys_created_on>
+        <sys_id>089025229749c25007357d100153afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Human Resource EC</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_089025229749c25007357d100153afb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 22:57:10</sys_updated_on>
+    </m2m_sp_portal_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>m2m_sp_portal_catalog_089025229749c25007357d100153afb6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog"><m2m_sp_portal_catalog action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sp_portal display_value="Human Resource EC">1daf51ee9709c25007357d100153af5a</sp_portal><sys_class_name>m2m_sp_portal_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-22 22:57:10</sys_created_on><sys_id>089025229749c25007357d100153afb6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Human Resource EC</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>m2m_sp_portal_catalog_089025229749c25007357d100153afb6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-22 22:57:10</sys_updated_on></m2m_sp_portal_catalog></record_update>]]></payload>
+        <payload_hash>1572654999</payload_hash>
+        <record_name>Service Catalog.Human Resource EC</record_name>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 22:57:10</sys_created_on>
+        <sys_id>8c90e1629749c25007357d100153afc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e6861e87f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 22:57:10</sys_updated_on>
+        <type>Portal Catalog</type>
+        <update_guid>08902522ea49c250df374afaf413beb8</update_guid>
+        <update_guid_history>08902522ea49c250df374afaf413beb8:1572654999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Human Resource EC">2fd225269749c25007357d100153af57</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-22 23:07:15</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_catalog">m2m_sp_portal_catalog</sys_db_object>
+        <sys_id>076b9babece341b8ad9014a54256b840</sys_id>
+        <sys_metadata>089025229749c25007357d100153afb6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Human Resource EC</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_catalog_089025229749c25007357d100153afb6</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_catalog_089025229749c25007357d100153afb6">8c90e1629749c25007357d100153afc8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-22 23:07:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>3</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a92999b797cd821007357d100153af6d</sp_column>
+        <sp_widget display_value="Relevant for you">6cc836d0dbf700500c209493db961914</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 19:37:11</sys_created_on>
+        <sys_id>ad2999b797cd821007357d100153af74</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>sp_instance_ad2999b797cd821007357d100153af74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 19:09:50</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"user_prediction_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"recent_activity_cut_off_in_days": {
+		"value": null,
+		"displayValue": ""
+	},
+	"title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"limit": {
+		"value": 3,
+		"displayValue": "3"
+	},
+	"category": {
+		"value": "knowledge and catalog",
+		"displayValue": "knowledge and catalog"
+	},
+	"list_type": {
+		"value": "Card List",
+		"displayValue": "Card List"
+	},
+	"card_behaviour": {
+		"value": "single",
+		"displayValue": "single"
+	},
+	"load_config": {
+		"value": "async",
+		"displayValue": "Asynchronous"
+	},
+	"show_empty_state": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=ad2999b797cd821007357d100153af74"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sp_instance_ad2999b797cd821007357d100153af74</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;3&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;a92999b797cd821007357d100153af6d&lt;/sp_column&gt;&lt;sp_widget display_value="Relevant for you"&gt;6cc836d0dbf700500c209493db961914&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-26 19:37:11&lt;/sys_created_on&gt;&lt;sys_id&gt;ad2999b797cd821007357d100153af74&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Human Resource" source="x_1022286_hr"&gt;3acfee4497f4021007357d100153afdc&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Human Resource"&gt;3acfee4497f4021007357d100153afdc&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_ad2999b797cd821007357d100153af74&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-28 19:09:50&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"user_prediction_count": {
+		"value": null,
+		"displayValue": ""
+	},
+	"recent_activity_cut_off_in_days": {
+		"value": null,
+		"displayValue": ""
+	},
+	"title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"limit": {
+		"value": 3,
+		"displayValue": "3"
+	},
+	"category": {
+		"value": "knowledge and catalog",
+		"displayValue": "knowledge and catalog"
+	},
+	"list_type": {
+		"value": "Card List",
+		"displayValue": "Card List"
+	},
+	"card_behaviour": {
+		"value": "single",
+		"displayValue": "single"
+	},
+	"load_config": {
+		"value": "async",
+		"displayValue": "Asynchronous"
+	},
+	"show_empty_state": {
+		"value": "false",
+		"displayValue": "false"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=ad2999b797cd821007357d100153af74"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1709646225</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 19:09:50</sys_created_on>
+        <sys_id>dc166f9c9711861007357d100153af22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8677ee3e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 19:09:50</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>54166f9c8c118610a490ec32f7f86d22</update_guid>
+        <update_guid_history>54166f9c8c118610a490ec32f7f86d22:1709646225,9105e75c5d1186108c625c7a930d420f:1351442162,b3e3efd8d311861050cff5d8cd2df0d9:1709646225,15c32fd8e9118610e213564aed4a0159:1351442162,a12999b700cd8210ef29755c2c989076:1709646225</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">77e8968d97d5c21007357d100153af7b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 21:28:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>13508a7de768408b81f8794561d739e9</sys_id>
+        <sys_metadata>ad2999b797cd821007357d100153af74</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>sp_instance_ad2999b797cd821007357d100153af74</sys_update_name>
+        <sys_update_version display_value="sp_instance_ad2999b797cd821007357d100153af74">dc166f9c9711861007357d100153af22</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 21:28:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>HR Project - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="hr_1">7b59146f9785421007357d100153af43</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 21:22:38</sys_created_on>
+        <sys_id>e4b7ac639709421007357d100153af67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Project - Container 2</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>sp_container_e4b7ac639709421007357d100153af67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 21:22:38</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sp_container_e4b7ac639709421007357d100153af67</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>HR Project - Container 2</name><order>2</order><semantic_tag/><sp_page display_value="hr_1">7b59146f9785421007357d100153af43</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-25 21:22:38</sys_created_on><sys_id>e4b7ac639709421007357d100153af67</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HR Project - Container 2</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>sp_container_e4b7ac639709421007357d100153af67</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-25 21:22:38</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-663008987</payload_hash>
+        <record_name>HR Project - Container 2</record_name>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 21:22:38</sys_created_on>
+        <sys_id>28b7ac639709421007357d100153af69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e777e70250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 21:22:38</sys_updated_on>
+        <type>Container</type>
+        <update_guid>2cb7ac6326094210b0d6e78720019468</update_guid>
+        <update_guid_history>2cb7ac6326094210b0d6e78720019468:-663008987</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HR Project - Container 2">8e70f06f9709421007357d100153af10</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 22:00:59</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>0bf5b325ce0c44d89f9940d0e441e240</sys_id>
+        <sys_metadata>e4b7ac639709421007357d100153af67</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Project - Container 2</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>sp_container_e4b7ac639709421007357d100153af67</sys_update_name>
+        <sys_update_version display_value="sp_container_e4b7ac639709421007357d100153af67">28b7ac639709421007357d100153af69</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 22:00:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

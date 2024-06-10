@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="esc_knowledge_home">f8b574a0b7202300d0ac9277ee11a91d</kb_knowledge_page>
+        <login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <rtl_enabled>false</rtl_enabled>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="HRM Header">1daf7d6473131300c629e1e54cf6a7f6</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 20:14:59</sys_created_on>
+        <sys_id>0a08dc2f9785421007357d100153afad</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>HR Project</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>sp_portal_0a08dc2f9785421007357d100153afad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 21:35:45</sys_updated_on>
+        <theme display_value="EC Theme">9b6f06d71bb8f85047582171604bcb9c</theme>
+        <title>HR Project</title>
+        <ts_index_group/>
+        <url_suffix>hre</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=0a08dc2f9785421007357d100153afad"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>sp_portal_0a08dc2f9785421007357d100153afad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><dark_theme/><default>false</default><enable_ais>false</enable_ais><enable_certificate_based_authentication>false</enable_certificate_based_authentication><enable_favorites>false</enable_favorites><hide_portal_name>false</hide_portal_name><homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage><icon/><kb_knowledge_base/><kb_knowledge_page display_value="esc_knowledge_home">f8b574a0b7202300d0ac9277ee11a91d</kb_knowledge_page><login_page display_value="landing">36c61807cb31120000f8d856634c9ca9</login_page><logo/><notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page><quick_start_config/><rtl_enabled>false</rtl_enabled><sc_catalog/><sc_catalog_page/><sc_category_page/><search_application/><search_results_configuration/><sp_chat_queue/><sp_rectangle_menu display_value="HRM Header">1daf7d6473131300c629e1e54cf6a7f6</sp_rectangle_menu><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-25 20:14:59</sys_created_on><sys_id>0a08dc2f9785421007357d100153afad</sys_id><sys_mod_count>11</sys_mod_count><sys_name>HR Project</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>sp_portal_0a08dc2f9785421007357d100153afad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-25 21:35:45</sys_updated_on><theme display_value="EC Theme">9b6f06d71bb8f85047582171604bcb9c</theme><title>HR Project</title><ts_index_group/><url_suffix>hre</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=0a08dc2f9785421007357d100153afad"/></record_update>]]></payload>
+        <payload_hash>-1722877933</payload_hash>
+        <record_name>HR Project</record_name>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 21:35:45</sys_created_on>
+        <sys_id>a4baa4a39709421007357d100153af68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e778a71930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 21:35:45</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>2cbaa4a3250942108fc45ee85a9cba67</update_guid>
+        <update_guid_history>2cbaa4a3250942108fc45ee85a9cba67:-1722877933,04e068e70bc54210a9ab4eadbb36ce03:2040954376,bbefd0e781c54210d632f5bc6c588426:-1198724114,36bfdca7a9c54210b1590fd211c92ae6:1114531318,239f5ca77dc54210a6601358292ab4f4:593229779,e27f14a7c3c542106a34e9a1d79631c7:-1513113024,e4f958ef7485421036c160131c37914c:1114531318,c3f8d0af26854210178d631cd856b937:2114827393,a5b8dc6fe78542108bbb591d9370f698:-40484651,af88946fd58542106b01f3eec8a27666:2114827393,b678986f4e854210ab7f4be5fc03de70:-1741034174,a538506f26854210d29c0a6a7f9d9426:-1199732380</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HR Project">6a5de06b9709421007357d100153af2b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 21:47:22</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>49be38b013644e38a7605f6c700b4d44</sys_id>
+        <sys_metadata>0a08dc2f9785421007357d100153afad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Project</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>sp_portal_0a08dc2f9785421007357d100153afad</sys_update_name>
+        <sys_update_version display_value="sp_portal_0a08dc2f9785421007357d100153afad">a4baa4a39709421007357d100153af68</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 21:47:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

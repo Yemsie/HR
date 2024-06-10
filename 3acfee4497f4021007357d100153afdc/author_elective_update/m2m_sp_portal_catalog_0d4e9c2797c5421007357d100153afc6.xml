@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="DELETE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sp_portal display_value="HR Project">0a08dc2f9785421007357d100153afad</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 20:41:27</sys_created_on>
+        <sys_id>0d4e9c2797c5421007357d100153afc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.HR Project</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_0d4e9c2797c5421007357d100153afc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 20:41:27</sys_updated_on>
+    </m2m_sp_portal_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Human Resource">3acfee4497f4021007357d100153afdc</application>
+        <file_path/>
+        <instance_id>d9e79152dbd75d502f68c59705961958</instance_id>
+        <instance_name>dev145130</instance_name>
+        <name>m2m_sp_portal_catalog_0d4e9c2797c5421007357d100153afc6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog"><m2m_sp_portal_catalog action="INSERT_OR_UPDATE"><active>true</active><order>100</order><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sp_portal display_value="HR Project">0a08dc2f9785421007357d100153afad</sp_portal><sys_class_name>m2m_sp_portal_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-25 20:41:27</sys_created_on><sys_id>0d4e9c2797c5421007357d100153afc6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.HR Project</sys_name><sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package><sys_policy/><sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope><sys_update_name>m2m_sp_portal_catalog_0d4e9c2797c5421007357d100153afc6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-25 20:41:27</sys_updated_on></m2m_sp_portal_catalog></record_update>]]></payload>
+        <payload_hash>-557024169</payload_hash>
+        <record_name>Service Catalog.HR Project</record_name>
+        <reverted_from/>
+        <source>68513e0897f4021007357d100153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 20:41:27</sys_created_on>
+        <sys_id>094e9c2797c5421007357d100153afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e7758b9a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 20:41:27</sys_updated_on>
+        <type>Portal Catalog</type>
+        <update_guid>0d4e9c2712c542100ab041c4de0e6ac8</update_guid>
+        <update_guid_history>0d4e9c2712c542100ab041c4de0e6ac8:-557024169</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.HR Project">ae5d246b9709421007357d100153afb0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 21:47:21</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_portal_catalog">m2m_sp_portal_catalog</sys_db_object>
+        <sys_id>73363b6a322a45009e01a53cb6ec4400</sys_id>
+        <sys_metadata>0d4e9c2797c5421007357d100153afc6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.HR Project</sys_name>
+        <sys_package display_value="Human Resource" source="x_1022286_hr">3acfee4497f4021007357d100153afdc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Human Resource">3acfee4497f4021007357d100153afdc</sys_scope>
+        <sys_scope_delete display_value="">06a9df04cfdf4c45b0057c877757a219</sys_scope_delete>
+        <sys_update_name>m2m_sp_portal_catalog_0d4e9c2797c5421007357d100153afc6</sys_update_name>
+        <sys_update_version display_value="m2m_sp_portal_catalog_0d4e9c2797c5421007357d100153afc6">094e9c2797c5421007357d100153afc9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 21:47:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
